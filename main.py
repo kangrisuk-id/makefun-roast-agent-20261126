@@ -1,0 +1,1 @@
+print('I asked my agent to roast itself and it wrote a 47-slide deck on its own inadequacy — then charged me for the presentation.')
